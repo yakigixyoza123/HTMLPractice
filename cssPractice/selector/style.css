@@ -1,0 +1,33 @@
+/*z全称セレクター*/
+*{
+    font-size: 20px;
+}
+/*idセレクター*/
+#li-color{
+    color:red;
+}
+/*classセレクター*/
+.text-color{
+    color:blue;
+    font-size :50px;
+}
+/*idを赤に指定*/
+#contents{
+    color: red;
+}
+/*クラスをblueに指定*/
+.section{
+    color: blue;
+}
+/*要素をgreenに指定*/
+div{
+    color: green;
+}
+/*箇条書き消す方法*/
+ul{
+    list-style: none;
+}
+/*下線を消す方法*/
+a{
+    text-decoration: none;
+}
